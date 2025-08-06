@@ -28,5 +28,6 @@ I am containedreality, I am interested in cybersecurity, UNIX, networking, and o
 ### Credits
 * [containedreality - to my knowledge all of the poor web design](https://github.com/containedreality)
 * [GitHub Pages - actually hosting this](https://pages.github.com/)
-* [NASA - background image](https://www.nasa.gov/image-article/pretty-in-pink/)
 * [Jekyll - actually making the site function in a reasonable way](https://jekyllrb.com/)
+
+I couldn't find who drew the background image, if you are or know the artist, please contact me so I can provide proper credit or take it down if requested.
