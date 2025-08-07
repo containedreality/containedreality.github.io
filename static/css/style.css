@@ -53,8 +53,6 @@ code {
     color: black;
     padding: 10px;
     word-wrap: break-word;
-    overflow-y: scroll;
-    height: 90vh;
 }
 
 .notepad img {
