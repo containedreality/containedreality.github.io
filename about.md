@@ -10,16 +10,16 @@ I am containedreality, I am interested in cybersecurity, UNIX, networking, and o
 ## Tools
 
 ### Operating Systems
-* Typically [Xubuntu](https://xubuntu.org/) or [Debian Mate](https://www.debian.org/) (Laptop, VMs, etc)
-* [OpenIndiana](https://openindiana.org/) (Server)
-* [Microsoft Windows](https://www.microsoft.com/en-us/software-download/windows11) (Desktop)
-* [Kali Linux](https://kali.org/) (Security Lab, CTFs)
+* [Slackware](http://www.slackware.com/) - Laptop
+* [OpenIndiana](https://openindiana.org/) or [OmniOS](https://omnios.org/) - Server
+* [Microsoft Windows](https://www.microsoft.com/en-us/software-download/windows11) - Desktop
+* [Kali Linux](https://kali.org/) - Security Lab, CTFs
 
 ### Text Editors
 * [Emacs](https://www.gnu.org/software/emacs/) (rarely anymore, but still sometimes, I do use emacs keybinds as much as possible)
 * [Vim](https://www.vim.org/) (almost never outside of servers)
-* What ever the operating system comes with typically Notepad or Mousepad.
-* [VSCode](https://code.visualstudio.com/)
+* What ever the operating system comes with typically vi, notepad, or mousepad, [ed(1)](https://man.netbsd.org/ed.1).
+* [VSCode](https://code.visualstudio.com/) or less commonly [VSCodium](https://vscodium.com/).
 
 ### Shells
 * CMD or PowerShell
