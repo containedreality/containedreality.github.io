@@ -12,11 +12,12 @@ I am containedreality, I am interested in cybersecurity, UNIX, networking, and o
 ### Operating Systems
 
 * [OmniOS](https://omnios.org/) - Server
-* [Kubuntu](https://kubuntu.org/) - Desktop/Laptop
+* [Alpine Linux](https://kubuntu.org/) - Desktop/Laptop
 
 ### Text Editors
 
-* [VSCode](https://code.visualstudio.com/)
+* [Kate](https://kate-editor.org/)
+* What ever is available.
 
 ### Shells
 
@@ -31,6 +32,12 @@ I write many programming language depending on the task at hand. But it usually 
 * [Go](https://go.dev/)
 * [Python](https://www.python.org/downloads/)
 * POSIX shell and Bash.
+
+### Contact / Social Media
+
+* containedreality2007 at outlook.com
+* [YouTube](https://www.youtube.com/@containedreality)
+* [X](https://x.com/containdreality)
 
 ### Credits
 
