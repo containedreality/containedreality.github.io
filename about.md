@@ -37,6 +37,8 @@ I write many programming language depending on the task at hand. But it usually 
 
 * containedreality2007 at outlook.com
 * [YouTube](https://www.youtube.com/@containedreality)
+* [Reddit](https://www.reddit.com/user/containedreality/)
+* [TikTok](https://www.tiktok.com/@containedreality)
 * [X](https://x.com/containdreality)
 
 ### Credits
