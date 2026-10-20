@@ -1,12 +1,10 @@
 body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif; 
-    background-image: url('/static/img/background.png');
-		/*
+    background-image: url('/static/img/background.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-		*/
     min-height: 100vh;
 }
 
@@ -31,13 +29,17 @@ nav a:hover {
     text-decoration: underline;
 }
 
+code {
+    color: rgb(255, 223, 223);
+}
+
 pre {
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.5);
     color: white;
     padding: 8px;
     overflow: auto;
-		border-radius: 10px;
-		tab-size: 2;
+    border-radius: 10px;
+    tab-size: 2;
 }
 
 pre code {
@@ -46,8 +48,14 @@ pre code {
 	text-decoration: none;
 }
 
+td {
+    border-style: solid;
+    border-width: 0.2px;
+    padding: 5px;
+}
+
 .notepad {
-		background: rgba(0,0,0,0.5);
+	background: rgba(0,0,0,0.5);
     margin: auto;
     width: 50%;
     color: white;
@@ -62,19 +70,16 @@ pre code {
     object-position: center;
 }
 
-.notepad h2,h3,h4 {
-    margin-bottom: 0;
-}
-
 .notepad h1 {
     text-align: center;
 }
 
 .notepad a {
     text-decoration: none;
-		color: rgb(0,200,200);
+    color: rgb(255,200,200);
 }
 
 .notepad a:hover {
     text-decoration: underline;
 }
+
