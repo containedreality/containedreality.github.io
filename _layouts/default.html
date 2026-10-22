@@ -11,5 +11,27 @@
         {{ content }}
     </div>
   </main>
+
+  <script>
+    function copyid(id) {
+      let location = window.location.href.replace(/\#.*/, '') + `#${id}`;
+      navigator.clipboard.writeText(location);
+
+      let elem = document.getElementById(id);
+      elem.innerHTML = elem.innerHTML + ' - Copied!';
+    }
+
+    function headerclick(tagname) {
+      let tag = document.getElementsByTagName(tagname);
+      for(let i = 0; i < tag.length; i++) {
+        tag[i].onclick = function() {
+          copyid(tag[i].id);
+        };
+      }
+    }
+
+    headerclick("h2");
+    headerclick("h3");
+  </script>
 </body>
 </html>
