@@ -74,6 +74,11 @@ td {
     text-align: center;
 }
 
+.notepad h2,h3,h4 {
+    color: rgb(230,255,255);
+    width: fit-content;
+}
+
 .notepad h2:hover,h3:hover {
     cursor: pointer;
 }
